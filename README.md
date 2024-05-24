@@ -10,10 +10,10 @@ their index postition.
 The do have some important differences.
 
 Arrays:
--Are fixed in size and can not be resized
+-Arrays are fixed in size and can not be resized
  after they are initialized.
--enhanced for loop
--Array references 
+-Removing, Adding, and Inserting elements into an Array is more difficult and requires the use of loops or creating new Arrays.
 
 Array Lists:
--
+-Array Lists are dynamic and can be resized as new elements are added or removed.
+-Array Lists come with methods that allow for easier manipulation of the Array Lists such and .add(), .set(), and .remove().
