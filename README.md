@@ -7,8 +7,7 @@
 ### Here are some important differences.
 
 ### Arrays:
-- Arrays are fixed in size and can not be resized
- after they are initialized.
+- Arrays are fixed in size and can not be resized after they are initialized.
 - Removing, Adding, and Inserting elements into an Array is more difficult and requires the use of loops or creating new Arrays.
 
 ### Array Lists:
